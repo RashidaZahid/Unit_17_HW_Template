@@ -2,12 +2,12 @@ body {
   margin: 0;
 }
 header {
-  background-color: #373738;
+  background-color: #bfd1ae;
   padding: 15px;
 }
 header ul {
   float: right;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 header li {
   display: inline-block;
@@ -17,14 +17,14 @@ header p {
   display: inline-block;
 }
 .heroImg {
-  background-color: #EBEBEB;
+  background-color: rgb(184, 177, 181);
   padding: 100px 15px;
 }
 .content {
   max-width: 300px;
   margin: 0 auto;
   padding: 50px;
-  background-color: #FFFFFF;
+  background-color: rgb(230, 203, 203);
   text-align: center;
 }
 button {
@@ -35,9 +35,9 @@ button {
   border-radius: 4px;
 }
 footer {
-  background-color: #373738;
+  background-color:  #bfd1ae;
   padding: 5px;
-  color: white;
+  color: rgb(3, 3, 3);
 }
 footer ul {
   list-style: none;
